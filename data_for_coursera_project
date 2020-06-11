@@ -6,3 +6,5 @@ Longitudinal MRI Data in Nondemented and Demented Older Adults: This set consist
 For the analysis, the following data will be used: Age, Gender, Education, Handness, MMSE, CDR, eTIV, nWBV.eTIV, nWBV comprise brain data, while Age, Gender, Education, Handness, MMSE, CDR comprise psychological examination and demographic data.
 
 We will use these sets of variables to predict the Group of the current data point (assigned to the patient) - diagnosed with dementia or not.
+
+The data will be evaluated with Support Vector Machine and Logistic Regression to obtain a better predictive model by comparison.
