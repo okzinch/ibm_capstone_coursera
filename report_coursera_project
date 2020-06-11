@@ -1,3 +1,5 @@
+Introduction
+
 Improving the quality of the diagnostics is essential in modern life. Although neuroimaging tools become available to use in everyday life in clinic, the potential of these methods is still not fully unveiled. 
 In my Coursera Capstone Project I propose to test a following hypothesis on openly available data: not only the psychological and demographic data (i.e. age, education, SES and MMSE) could help us to diagnose neurodegenerative disorders, but it is also possible suggest a diagnostic tool based on the application of machine learning in neuroscience. I propose to set at openly available dataset with data derived from MRI scans and psychological, demographic characteristics conduct an analysis with Support Vector Machine and Logistic Regression to discover, if the combination of brain and psychological data allow better classification between patients and healthy controls, than psychological-demographical data only.
 Such tool could potentially be of interest to private clinics, hospitals and medical centres who specialize mostly on preventive care and diagnostics.
